@@ -3,6 +3,15 @@
   background-color: bisque;
 }
 
+body {
+  background-color: #4c2c55;
+  color: #FFFFFF;
+  font-family: "Varela Round Regular", Arial, sans-serif;
+  text-shadow: 1px 1px 2px var(--textShadowColor);
+  margin: 0px;
+  cursor: default;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
